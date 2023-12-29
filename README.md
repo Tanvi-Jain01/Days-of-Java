@@ -1,2 +1,2 @@
-# python
-Experiencing various functions of Python Language
+# JAVA
+Experiencing various functions of Java Language
